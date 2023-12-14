@@ -1,0 +1,17 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+facenet-pytorch
+matplotlib==3.3.2
+menpo
+pillow
+scipy
+scikit-image
+scikit-learn
+kornia
+numpy
+trimesh==3.9.20
+opencv-python
+cmake
+protobuf==3.19.0
+#dlib
